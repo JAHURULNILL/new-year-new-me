@@ -6,7 +6,9 @@
 
 .main-container {
     background-image: url(./images/banner/banner2.png);
+    background-repeat: no-repeat;
     height: 100vh;
+    width: 100%;
     display: flex;
     justify-content: right;
     text-align: right;
@@ -191,8 +193,4 @@
     border: 1px solid #FFFFFF;
     border-radius: 8px;
     padding-left: 5px;
-}
-
-#nn {
-    padding: 20px;
 }
